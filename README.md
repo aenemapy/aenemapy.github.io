@@ -24,14 +24,23 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Kodi Repo How To
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aenemapy/aenemapy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+    <p>Instructions for adding this repo:</p>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    <ul>
+      <li>Go to the Kodi file manager.</li>
+      <li>Click on "Add source"</li>
+      <li>The path for the source is <b><a href="https://aenemapy.github.io/repo/">https://aenemapy.github.io/repo/</a></b> (Give it the name "Aenemapy Repo").</li>
+      <li>Go to "Addons"</li>
+      <li>In Addons, install an addon from zip.  When it asks for the location, select "Aenemapy Repo", and install "repository.aenemapy-xxx.zip"</li>
+      <li>Go back to Addons install, but this time, select "Install from repository"</li>
+      <li>Select the "Aenemapy Repository"</li>
+      <li>Install the addons you want from inside the repo</li>
+    </ul>
+
+	<h2>Enjoy!</h2>
+
