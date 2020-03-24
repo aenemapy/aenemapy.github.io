@@ -1,4 +1,4 @@
-Instructions for adding this repo:
+Instructions for adding Kodi repo:
 
     1. Go to the Kodi file manager.
     2. Click on "Add source"
@@ -10,4 +10,6 @@ Instructions for adding this repo:
     8. Select the "Aenemapy Repository"
     9. Install the addons you want from inside the repo
 
-Enjoy!
+Install APK Release for Android:
+
+    1. Here you can find all current Android Rleeases for Premiumizer APP: https://github.com/aenemapy/premiumizerapp
