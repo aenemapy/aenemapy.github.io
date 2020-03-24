@@ -12,4 +12,4 @@ Instructions for adding Kodi repo:
 
 Install APK Release for Android:
 
-    1. Here you can find all current Android Rleeases for Premiumizer APP: https://github.com/aenemapy/premiumizerapp
+    1. Here you can find all current Android Rleeases for Premiumizer APP: <a href="https://github.com/aenemapy/premiumizerapp/releases">Premiumizer APP</a>
